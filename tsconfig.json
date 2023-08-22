@@ -1,6 +1,6 @@
 {
   "compileOnSave": true,
-  "include": ["./packages/**/*", "srcipts"],
+  "include": ["./packages/**/*", "scripts"],
   "compilerOptions": {
     "target": "ESNext",
     "useDefineForClassFields": true,
