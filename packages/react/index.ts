@@ -1,5 +1,5 @@
 /**
-1. react 入口，打包结果
+1. react 入口，打包结果123
  */
 import { jsx } from './src/jsx';
 export default {
